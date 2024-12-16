@@ -1,0 +1,5 @@
+.DS_Store
+# dummyFile.txt
+package*.json
+m.js
+node_modules
